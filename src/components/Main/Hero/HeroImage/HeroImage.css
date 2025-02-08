@@ -1,0 +1,7 @@
+.hero-image {
+    width: 40%;
+    max-width: 50%;
+    border-radius: 50%;
+    z-index: 1;
+    box-shadow: 1rem .875rem 1.25rem #0000008c;
+}

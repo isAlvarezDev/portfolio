@@ -1,0 +1,19 @@
+.footer {
+    margin-block-start: var(--space-3xl);
+    background-image: linear-gradient(to bottom,  var(--color-bg) 0% ,  var(--color-secondary) 25%);
+    padding: var(--space-x) 10%;
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: var(--space-2xs);
+}
+
+@media (max-width: 51.875rem) {
+    .footer-wrapper {
+        flex-direction: column;
+        gap: var(--space-s);
+    }
+}

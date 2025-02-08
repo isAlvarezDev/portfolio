@@ -1,0 +1,43 @@
+.technologies {
+    color: var(--color-text);
+    margin-block-start: var(--space-2xl);
+}
+
+.title {
+    font-weight: 700;
+    letter-spacing: 1.75px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-l);
+}
+
+.skill {
+    text-align: center;
+    margin-top: 11px;
+}
+
+.skill-image-container {
+    background-color: var(--color-secondary);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+}
+
+.skill p {
+    font-family: var(--font-roboto);
+    font-weight: 500;
+}
+
+@media (max-width: 51.875rem) {
+    .skills {
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+    }
+}

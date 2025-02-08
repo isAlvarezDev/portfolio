@@ -1,0 +1,30 @@
+.transition,
+.stairs-wrapper,
+.stairs {
+  width: 100dvw;
+  height: 100dvh;
+}
+
+.transition,
+.stairs-wrapper {
+  position: fixed;
+  top: 0;
+}
+
+.transition {
+  background-color: var(--color-bg);
+  pointer-events: none;
+}
+
+.stairs-wrapper {
+  left: 0;
+  right: 0;
+  pointer-events: none;
+  z-index: 40;
+  display: flex;
+}
+
+.stairs {
+  background-color: white;
+  position: relative;
+}

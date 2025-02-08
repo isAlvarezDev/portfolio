@@ -1,0 +1,38 @@
+{
+    "en": [
+      {
+        "title": "Weather App",
+        "imageSrc": "projects/weather-icons.webp",
+        "description": "Implemented the Meteosource API in a React application to obtain real-time weather data.",
+        "skills": ["React", "Sass"],
+        "preview": "https://isalvarezdev.github.io/react-weather-app/",
+        "code": "https://github.com/isAlvarezDev/react-weather-app"
+      },
+      {
+        "title": "Space Tourism",
+        "imageSrc": "projects/space.webp",
+        "description": "Multi-page website with a responsive and interactive design, based on a Frontend Mentor project.",
+        "skills": ["JavaScript", "TypeScript"],
+        "preview": "https://juserdev.github.io/Personal-landing-page/retos-js-ts/retos/reto-19/",
+        "code": "https://github.com/JuSeRDev/Personal-landing-page/tree/main/retos-js-ts/retos/reto-19"
+      }
+    ],
+    "es": [
+      {
+        "title": "Aplicación Meteorológica",
+        "imageSrc": "projects/weather-icons1.webp",
+        "description": "Implementé la API de Meteosource en una aplicación de React, para obtener datos del clima en tiempo real.",
+        "skills": ["React", "Sass"],
+        "preview": "https://isalvarezdev.github.io/react-weather-app/",
+        "code": "https://github.com/isAlvarezDev/react-weather-app"
+      },
+      {
+        "title": "Turismo Espacial",
+        "imageSrc": "projects/space.webp",
+        "description": "Desarrollo en equipo con diseño adaptable, basada en un proyecto de Frontend Mentor.",
+        "skills": ["JavaScript", "TypeScript"],
+        "preview": "https://juserdev.github.io/Personal-landing-page/retos-js-ts/retos/reto-19/",
+        "code": "https://github.com/JuSeRDev/Personal-landing-page/tree/main/retos-js-ts/retos/reto-19"
+      }
+    ]
+  }

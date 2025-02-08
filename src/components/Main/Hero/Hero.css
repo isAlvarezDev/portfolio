@@ -1,0 +1,128 @@
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-block-start: var(--space-x);
+    z-index: 1;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    z-index: 1;
+}
+
+h1 {
+    font-size: var(--step-5);
+    font-weight: 900;
+    margin-block-start: var(--space-xs);
+    margin-block-end: var(--space-m);
+    font-family: var(--font-roboto);
+}
+
+.color-primary {
+    color: var(--color-primary);
+}
+
+.color-tertiary {
+    color: var(--color-tertiary);
+}
+
+.color-tertiary-no-bold {
+    font-weight: normal;
+}
+
+.description {
+    font-size: var(--step-0);
+    font-family: var(--font-roboto);
+    margin-block-end: var(--space-x);
+    text-wrap: pretty;
+}
+
+.social-media {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.social-media a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+    border: 2px solid var(--color-secondary);
+    padding-inline: calc(7px * 1);
+    border-radius: 50%;
+    background-color: var(--color-primary);
+    color: var(--color-text);
+}
+
+.email {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    border-radius: 2rem;
+    padding: .7rem 1.4rem;
+    background-color: var(--color-secondary);
+    font-weight: 500;
+    font-size: var(--step--1);
+    box-shadow: 0 0 4px 0 #00000040;
+}
+
+.cv, .linkedin, .github {
+    padding: .3rem .5rem;
+}
+
+.topBlur {
+    position: absolute;
+    width: 50dvw;
+    height: 50dvh;
+    min-inline-size: 21.875rem;
+    top: 7.5rem;
+    left: 0;
+    border-radius: 47.75rem;
+    background: #19376db3;
+    filter: blur(6.25rem);
+    z-index: 0;
+}
+
+.bottomBlur {
+    position: absolute;
+    width: 70dvw;
+    height: 50dvh;
+    min-inline-size: 15.625rem;
+    top: -246px;
+    right: -0;
+    border-radius: 47.75rem;
+    background: #19376db3;
+    filter: blur(6.25rem);
+    z-index: 0;
+}
+
+
+@media (max-width: 51.875rem) {
+    .container {
+        flex-direction: column-reverse;
+    }
+
+    .content {
+        align-items: center;
+    }
+}
+
+@media (max-width: 530px) {
+    .social-media {
+        flex-direction: column;
+    }
+
+    .email {
+        margin-block-end: .5rem;
+    }
+
+    .topBlur {
+        min-inline-size: 15.875rem;
+    }
+}

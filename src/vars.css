@@ -1,0 +1,36 @@
+:root {
+  /* Colors */
+  --color-text: #fff;
+  --color-primary: #5f73b0;
+  --color-secondary: #19376d;
+  --color-tertiary: #83C8F2;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  /* Font-sizes */
+  --step--3: clamp(0.7901rem, 0.7697rem + 0.1023vw, 0.84rem);
+  --step--2: clamp(0.8901rem, 0.7697rem + 0.1023vw, 0.94rem);
+  --step--1: clamp(0.8889rem, 0.8228rem + 0.3305vw, 1.1rem);
+  --step-0: clamp(.95rem, 0.8718rem + 0.641vw, 1.3125rem);
+  --step-1: clamp(1.125rem, 0.9135rem + 1.0577vw, 1.5406rem);
+  --step-2: clamp(1.2656rem, 0.9435rem + 1.6106vw, 2.0508rem);
+  --step-3: clamp(1.4238rem, 0.9563rem + 2.3377vw, 2.5635rem);
+  --step-4: clamp(1.6018rem, 0.9444rem + 3.2873vw, 3.2043rem);
+  --step-5: clamp(1.802rem, 0.8981rem + 4.5198vw, 4.0054rem);
+
+  /* Spaces */
+  --space-2xs: clamp(0.5rem, 0.4231rem + 0.3846vw, 0.6875rem);
+  --space-1xs: clamp(0.6rem, 0.5231rem + 0.4846vw ,0.875rem);
+  --space-xs: clamp(0.75rem, 0.6474rem + 0.5128vw, 1rem);
+  --space-s: clamp(1rem, 0.8718rem + 0.641vw, 1.3125rem);
+  --space-m: clamp(1.5rem, 1.2949rem + 1.0256vw, 2rem);
+  --space-l: clamp(2rem, 1.7436rem + 1.2821vw, 2.625rem);
+  --space-x: clamp(2.5rem, 2.2436rem + 1.4821vw, 3.5rem);
+  --space-xl: clamp(3rem, 2.6154rem + 1.9231vw, 3.9375rem);
+  --space-2xl: clamp(4rem, 3.4872rem + 2.5641vw, 5.25rem);
+  --space-3xl: clamp(4.9rem, 4.2308rem + 2.8462vw, 6.875rem);
+  --space-4xl: clamp(6rem, 5.2308rem + 3.8462vw, 7.875rem);
+
+  /* Fonts */
+  --font-robot: "Roboto";
+}

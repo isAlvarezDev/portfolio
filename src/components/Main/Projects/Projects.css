@@ -1,0 +1,12 @@
+.container-of-projects {
+    margin-block-start: var(--space-xl);
+}
+
+.project-wrappers {
+    margin-block-start: var(--space-m);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-xs);
+}

@@ -1,0 +1,56 @@
+{
+    "en": {
+        "tech": "Technologies",
+        "project": "Projects",
+        "about": "About me",
+        "contact": "Contact",
+        "greetings": "Hey, I'm",
+        "profession": "Junior front-end developer",
+        "careerObjective": "with enthusiasm for transforming ideas into creative digital solutions. Ready to collaborate in challenging teams and projects.",
+        "title": "Systems Engineer",
+        "formation": "Formation",
+        "firstParagraph": {
+            "firstPart": "I saw a video entitled 'Why most people fail to learn programming'. I realised that programming ",
+            "secondPart":"has always been a part of my life",
+            "thirdPart": ", from tweaking video game settings to fixing compatibility issues on my computer."
+        },
+        "secondParagraph": {
+            "firstPart": "That revelation plunged me right into this world. I started with the basics, following tutorials and online courses. Since then ",
+            "secondPart": "I enjoy creating web experiences for users"
+        },
+        "thirdParagraph": {
+            "firstPart": "My goal is to ",
+            "secondPart": "create intuitive and enjoyable digital solutions",
+            "thirdPart": ", designing interfaces that are both ",
+            "fourthPart": "visually appealing and easy to use"
+        },
+        "getInTouch": "Get in Touch"
+    },
+    "es": {
+        "tech": "Tecnologías",
+        "project": "Proyectos",
+        "about": "Sobre mí",
+        "contact": "Contacto",
+        "greetings": "Hola, soy",
+        "profession": "Desarrollador front-end junior",
+        "careerObjective": "con entusiasmo por transformar ideas en soluciones digitales creativas. Listo para colaborar en equipos y proyectos desafiantes.",
+        "title": "Ingeniero de Sistemas",
+        "formation": "Formación",
+        "firstParagraph": {
+            "firstPart": "Ví un vídeo titulado 'Por qué tantas personas fallan al aprender a programar'. Entendí que la programación ",
+            "secondPart": "siempre formó parte de mi vida",
+            "thirdPart": ", desde modificar los ajustes de videojuegos hasta solucionar problemas de compatibilidad en mi ordenador."
+        },
+        "secondParagraph": {
+            "firstPart": "Esa revelación me sumergió de lleno en este mundo. Empecé por lo básico, siguiendo tutoriales y cursos en línea. Desde entonces ",
+            "secondPart": "disfruto creando experiencias web para los usuarios"
+        },
+        "thirdParagraph": {
+            "firstPart": "Mi objetivo es crear ",
+            "secondPart": "soluciones digitales intuitivas y agradables",
+            "thirdPart": ", diseñando interfaces que sean tanto ",
+            "fourthPart": "visualmente atractivas como fáciles de usar"
+        },
+        "getInTouch": "Ponerse en Contacto"
+    }
+}

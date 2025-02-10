@@ -6,7 +6,7 @@
         "contact": "Contact",
         "greetings": "Hey, I'm",
         "profession": "Junior front-end developer",
-        "careerObjective": "with enthusiasm for transforming ideas into creative digital solutions. Ready to collaborate in challenging teams and projects.",
+        "careerObjective": "dedicated to creating quality digital experiences. I am looking to collaborate in challenging projects and dynamic teams.",
         "title": "Systems Engineer",
         "formation": "Formation",
         "firstParagraph": {
@@ -24,7 +24,7 @@
             "thirdPart": ", designing interfaces that are both ",
             "fourthPart": "visually appealing and easy to use"
         },
-        "getInTouch": "Get in Touch"
+        "getInTouch": "Let's connect!"
     },
     "es": {
         "tech": "Tecnologías",
@@ -33,7 +33,7 @@
         "contact": "Contacto",
         "greetings": "Hola, soy",
         "profession": "Desarrollador front-end junior",
-        "careerObjective": "con entusiasmo por transformar ideas en soluciones digitales creativas. Listo para colaborar en equipos y proyectos desafiantes.",
+        "careerObjective": "dedicado a la creación de experiencias digitales de calidad. Busco colaborar en proyectos desafiantes y equipos dinámicos.",
         "title": "Ingeniero de Sistemas",
         "formation": "Formación",
         "firstParagraph": {
@@ -51,6 +51,6 @@
             "thirdPart": ", diseñando interfaces que sean tanto ",
             "fourthPart": "visualmente atractivas como fáciles de usar"
         },
-        "getInTouch": "Ponerse en Contacto"
+        "getInTouch": "¡Conversemos!"
     }
 }

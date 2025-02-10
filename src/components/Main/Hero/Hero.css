@@ -5,6 +5,7 @@
     justify-content: space-between;
     margin-block-start: var(--space-x);
     z-index: 1;
+    gap: 1rem;
 }
 
 .content {
@@ -102,6 +103,19 @@ button {
     z-index: 0;
 }
 
+@media (max-width: 55.625rem) {
+    :where(.cv, .linkedin, .github) svg {
+        width: 24px;
+    }
+
+    .cv, .linkedin, .github {
+        padding: .2rem .45rem;
+    }
+
+    .email svg {
+        width: 20px;
+    }
+}
 
 @media (max-width: 51.875rem) {
     .container {
@@ -113,7 +127,7 @@ button {
     }
 }
 
-@media (max-width: 530px) {
+@media (max-width: 33.125rem) {
     .social-media {
         flex-direction: column;
     }

@@ -62,8 +62,8 @@ export const Hero = ({ translations, currentLang }) => {
             <a
               href={
                 currentLang === "es"
-                  ? "./src/assets/hero/spanish-cv.pdf"
-                  : "./src/assets/hero/english-cv.pdf"
+                  ? "./assets/hero/spanish-cv.pdf"
+                  : "./assets/hero/english-cv.pdf"
               }
               target="_blank"
             >

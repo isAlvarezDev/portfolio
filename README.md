@@ -9,6 +9,7 @@ Hi! This is my personal portfolio, where I showcase my projects and skills in fr
 - [Usage](#usage)
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
+- [Preview](#preview)
 
 ## Introduction
 
@@ -50,3 +51,7 @@ The portfolio is organized into different sections:
 - React.
 - Motion.
 - react-copy-to-clipboard.
+
+## Preview
+
+![Portfolio image of Isaac Alvarez](/public/assets/screenshots/website-screenshot.webp)

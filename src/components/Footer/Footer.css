@@ -1,6 +1,6 @@
 .footer {
     margin-block-start: var(--space-3xl);
-    background-image: linear-gradient(to bottom,  var(--color-bg) 0% ,  var(--color-secondary) 25%);
+    background-image: linear-gradient(to bottom, var(--color-bg) 0% , var(--color-secondary) 35%);
     padding: var(--space-x) 10%;
 }
 

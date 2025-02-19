@@ -8,7 +8,7 @@ export const Contact = ({ translations, currentLang }) => {
         <>
             <div className="text">
                 <h2>{contact}</h2>
-                <p>{getInTouch}</p>
+                <p className="color-tertiary">{getInTouch}</p>
             </div>
             <ul className="footer-links">
                 <li className="footer-link">

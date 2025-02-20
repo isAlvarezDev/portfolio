@@ -64,4 +64,16 @@ section {
   :is(.cv, .linkedin, .github, .badge, .project-link):hover svg {
       stroke: var(--color-primary);
   }
+
+  .skill {
+    cursor: grab;
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+  }
+
+  .skill:active {
+    cursor: grabbing;
+    cursor: -moz-grabbing;
+    cursor: -webkit-grabbing;
+  }
 }

@@ -9,6 +9,7 @@
         "careerObjective": "dedicated to creating quality digital experiences. I am looking to collaborate on challenging projects and work with dynamic teams.",
         "title": "Systems Engineer",
         "formation": "Formation",
+        "drag": "Try dragging",
         "firstParagraph": {
             "firstPart": "I saw a video entitled 'Why most people fail to learn programming'. I realised that programming ",
             "secondPart":"has always been a part of my life",
@@ -36,6 +37,7 @@
         "careerObjective": "dedicado a la creación de experiencias digitales de calidad. Busco colaborar en proyectos desafiantes y trabajar con equipos dinámicos.",
         "title": "Ingeniero de Sistemas",
         "formation": "Formación",
+        "drag": "Intenta arrastrar",
         "firstParagraph": {
             "firstPart": "Ví un vídeo titulado 'Por qué tantas personas fallan al aprender a programar'. Entendí que la programación ",
             "secondPart": "siempre formó parte de mi vida",

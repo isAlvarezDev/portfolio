@@ -8,6 +8,15 @@
     letter-spacing: 1.75px;
 }
 
+.drag-indication {
+    display: flex;
+    font-style: italic;
+    align-items: center;
+    color: #6B7280;
+}
+
+.drag-indication p {color: inherit;}
+
 .skills {
     display: flex;
     flex-wrap: wrap;
@@ -29,15 +38,23 @@
     height: 64px;
 }
 
-.skill p {
+.skill-image, .skill-title {
+    user-select: none;
+}
+
+.skill-title {
     font-family: var(--font-roboto);
     font-weight: 500;
+    font-size: var(--step--2);
 }
 
 @media (max-width: 51.875rem) {
     .skills {
         width: 100%;
         flex-direction: row;
+    }
+
+    .message, .skills {
         justify-content: center;
     }
 }

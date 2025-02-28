@@ -25,9 +25,9 @@ export const Hero = ({ translations, currentLang }) => {
           , {careerObjective}
         </p>
         <div className="social-media">
-          <CopyToClipboard text="alvarezisaac871@gmail.com" onCopy={onCopyText}>
+          <CopyToClipboard text="isalvarezdev@gmail.com" onCopy={onCopyText}>
             <button className="email" onClick={onCopyText}>
-              alvarezisaac871@gmail.com
+              isalvarezdev@gmail.com
               {isCopiedEmail ? (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

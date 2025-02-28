@@ -13,7 +13,7 @@ export const Contact = ({ translations, currentLang }) => {
             <ul className="footer-links">
                 <li className="footer-link">
                     <img className="footer-contact-img" src={getImageUrl("contact/emailIcon.png")} alt="email icon" />
-                    <a href="mailto:alvarezisaac871@gmail.com">alvarezisaac871@gmail.com</a>
+                    <a href="mailto:isalvarezdev@gmail.com">isalvarezdev@gmail.com</a>
                 </li>
                 <li className="footer-link">
                     <img className="footer-contact-img" src={getImageUrl("contact/linkedinIcon.png")} alt="linkedin icon" />

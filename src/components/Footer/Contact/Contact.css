@@ -57,7 +57,7 @@
 }
 
 @media (hover: hover) {
-    .footer-link:hover img {
+    .footer-link:hover svg {
         animation: shake 0.5s ease-in-out;
     }
 }

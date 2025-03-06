@@ -1,4 +1,4 @@
-import { getImageUrl } from "../../../utils"
+import { Email, LinkedIn,Github } from "../../Svgs";
 import './Contact.css'
 
 export const Contact = ({ translations, currentLang }) => {
@@ -12,15 +12,15 @@ export const Contact = ({ translations, currentLang }) => {
             </div>
             <ul className="footer-links">
                 <li className="footer-link">
-                    <img className="footer-contact-img" src={getImageUrl("contact/emailIcon.png")} alt="email icon" />
+                    <Email className="footer-contact-img"/>
                     <a href="mailto:isalvarezdev@gmail.com">isalvarezdev@gmail.com</a>
                 </li>
                 <li className="footer-link">
-                    <img className="footer-contact-img" src={getImageUrl("contact/linkedinIcon.png")} alt="linkedin icon" />
+                    <LinkedIn className="footer-contact-img" width='40' height='38'/>
                     <a href="https://www.linkedin.com/in/is-alvarez/" target="_blank">linkedin.com/is-alvarez</a>
                 </li>
                 <li className="footer-link">
-                    <img className="footer-contact-img" src={getImageUrl("contact/githubIcon.png")} alt="github icon" />
+                    <Github width='40' height='40' className="footer-contact-img" />
                     <a href="https://github.com/isAlvarezDev" target="_blank">github.com/isAlvarezDev</a>
                 </li>
             </ul>

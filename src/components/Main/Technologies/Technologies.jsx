@@ -1,8 +1,8 @@
 import { createSwapy } from "swapy";
 import { useEffect, useRef } from "react";
 import technologies from "../../../data/technologies.json";
-import { getImageUrl } from "../../../utils";
 import "./Technologies.css";
+import { SvgRenderer } from "./SvgRenderer";
 
 export const Technologies = ({ translations, currentLang }) => {
   const swapy = useRef(null);
@@ -46,13 +46,7 @@ export const Technologies = ({ translations, currentLang }) => {
             >
               <div data-swapy-item={index}>
                 <div>
-                  <div className="skill-image-container">
-                    <img
-                      src={getImageUrl(technology.imageSrc)}
-                      alt={technology.title}
-                      className="skill-image"
-                    />
-                  </div>
+                <SvgRenderer base64Data={technology.image.data} />
                   <p className="skill-title">{technology.title}</p>
                 </div>
               </div>

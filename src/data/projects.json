@@ -20,7 +20,7 @@
     "es": [
       {
         "title": "Aplicación Meteorológica",
-        "imageSrc": "projects/weather-icons1.webp",
+        "imageSrc": "projects/weather-icons.webp",
         "description": "Implementé la API de Meteosource en una aplicación de React, para obtener datos del clima en tiempo real.",
         "skills": ["React", "Sass"],
         "preview": "https://isalvarezdev.github.io/react-weather-app/",

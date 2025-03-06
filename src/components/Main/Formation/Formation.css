@@ -13,7 +13,7 @@
     align-items: center;
 }
 
-.badge {
+.graduation {
     background-color: var(--color-primary);
     padding: .3rem .4rem;
     border-radius: 50%;

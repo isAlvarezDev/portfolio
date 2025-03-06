@@ -5,11 +5,13 @@ import {
   PageTransition,
   StairTransition,
 } from "./components/";
+import { changeLangAttr } from "./utils";
 
 import translations from './components/i18n/translations.json'
 
 function App() {
   const currentLang = navigator.language.includes('es') ? 'es' : 'en' 
+  changeLangAttr(currentLang)
   return (
     <>
       <StairTransition></StairTransition>

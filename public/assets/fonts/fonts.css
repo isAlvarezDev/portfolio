@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Outfit";
+  src: local("Outfit Thin Regular"), local("OutfitThin-Regular"),
+    url("./outfit/outfit-latin-400-normal.woff2") format("woff2");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: local("Outfit Thin Medium"), local("OutfitThin-Medium"),
+    url("./outfit/outfit-latin-500-normal.woff2") format("woff2");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: local("Outfit Thin SemiBold"), local("OutfitThin-SemiBold"),
+    url("./outfit/outfit-latin-600-normal.woff2") format("woff2");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: local("Outfit Thin Bold"), local("OutfitThin-Bold"),
+    url("./outfit/outfit-latin-700-normal.woff2") format("woff2");
+  font-weight: 700;
+}

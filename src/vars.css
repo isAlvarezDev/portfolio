@@ -30,7 +30,4 @@
   --space-2xl: clamp(4rem, 3.4872rem + 2.5641vw, 5.25rem);
   --space-3xl: clamp(4.9rem, 4.2308rem + 2.8462vw, 6.875rem);
   --space-4xl: clamp(6rem, 5.2308rem + 3.8462vw, 7.875rem);
-
-  /* Fonts */
-  --font-robot: "Roboto";
 }

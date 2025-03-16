@@ -20,10 +20,9 @@ svg {
 
 h1 {
   font-size: var(--step-5);
-  font-weight: 900;
+  font-weight: 600;
   margin-block-start: var(--space-xs);
   margin-block-end: var(--space-m);
-  font-family: var(--font-roboto);
 }
 
 .color-primary {
@@ -40,7 +39,6 @@ h1 {
 
 .description {
   font-size: var(--step-0);
-  font-family: var(--font-roboto);
   margin-block-end: var(--space-x);
   text-wrap: pretty;
 }

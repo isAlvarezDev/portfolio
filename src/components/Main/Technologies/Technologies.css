@@ -45,7 +45,6 @@
 }
 
 .skill-title {
-    font-family: var(--font-roboto);
     font-weight: 500;
     font-size: var(--step--2);
 }

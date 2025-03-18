@@ -9,12 +9,12 @@
         "code": "https://github.com/isAlvarezDev/react-weather-app"
       },
       {
-        "title": "Space Tourism",
-        "imageSrc": "projects/space.webp",
-        "description": "Multi-page website with a responsive and interactive design, based on a Frontend Mentor project.",
-        "skills": ["JavaScript", "TypeScript"],
-        "preview": "https://juserdev.github.io/Personal-landing-page/retos-js-ts/retos/reto-19/",
-        "code": "https://github.com/JuSeRDev/Personal-landing-page/tree/main/retos-js-ts/retos/reto-19"
+        "title": "Project Gallery",
+        "imageSrc": "projects/project-gallery.webp",
+        "description": "Collection of projects, inspired and built from the Frontend Mentor challenges.",
+        "skills": ["JavaScript", "Tailwind"],
+        "preview": "https://isalvarezdev.github.io/frontend-mentor/",
+        "code": "https://github.com/isAlvarezDev/frontend-mentor/tree/main/"
       }
     ],
     "es": [
@@ -27,12 +27,12 @@
         "code": "https://github.com/isAlvarezDev/react-weather-app"
       },
       {
-        "title": "Turismo Espacial",
-        "imageSrc": "projects/space.webp",
-        "description": "Desarrollo en equipo con diseño adaptable, basada en un proyecto de Frontend Mentor.",
-        "skills": ["JavaScript", "TypeScript"],
-        "preview": "https://juserdev.github.io/Personal-landing-page/retos-js-ts/retos/reto-19/",
-        "code": "https://github.com/JuSeRDev/Personal-landing-page/tree/main/retos-js-ts/retos/reto-19"
+        "title": "Galería de Proyectos",
+        "imageSrc": "projects/project-gallery.webp",
+        "description": "Colección de proyectos, inspirados y construidos a partir de los desafíos de Frontend Mentor.",
+        "skills": ["JavaScript", "Tailwind"],
+        "preview": "https://isalvarezdev.github.io/frontend-mentor/",
+        "code": "https://github.com/isAlvarezDev/frontend-mentor/tree/main/"
       }
     ]
   }

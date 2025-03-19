@@ -20,13 +20,12 @@
 .drag-indication p {color: inherit;}
 
 .skills {
-    display: flex;
+    display: inline-flex;
     flex-wrap: wrap;
     gap: var(--space-l);
 }
 
 .skill {
-    text-align: center;
     margin-top: 11px;
 }
 
@@ -47,6 +46,13 @@
 .skill-title {
     font-weight: 500;
     font-size: var(--step--2);
+}
+
+.skill-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
 }
 
 @media (max-width: 51.875rem) {

@@ -34,7 +34,7 @@ export const Technologies = ({ translations, currentLang }) => {
               data-swapy-slot={technology.title}
             >
               <div data-swapy-item={index}>
-                <div>
+                <div className="skill-container">
                 <SvgRenderer base64Data={technology.image.data} />
                   <p className="skill-title">{technology.title}</p>
                 </div>

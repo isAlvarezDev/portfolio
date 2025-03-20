@@ -5,7 +5,8 @@ export const About = ({ translations, currentLang }) => {
     about,
     firstParagraph,
     secondParagraph,
-    thirdParagraph
+    thirdParagraph,
+    fourthParagraph,
   } = translations[currentLang];
   return (
     <section className="about" id="about">
@@ -31,7 +32,7 @@ export const About = ({ translations, currentLang }) => {
             </strong>
             .
           </p>
-          <p className="about-description about-description-no-margin">
+          <p className="about-description">
             {thirdParagraph.firstPart}
             <strong className="color-tertiary color-tertiary-no-bold">
               {thirdParagraph.secondPart}
@@ -41,6 +42,19 @@ export const About = ({ translations, currentLang }) => {
               {thirdParagraph.fourthPart}
             </strong>
             .
+          </p>
+          <p className="about-description about-description-no-margin">
+            {fourthParagraph.firstPart}
+            <strong className="color-tertiary color-tertiary-no-bold">
+              {fourthParagraph.secondPart}
+            </strong>
+            <a
+              href="https://zelda.fandom.com/wiki/Korok"
+              target="_blank"
+              className="korogs"
+            >
+              {fourthParagraph.thirdPart}
+            </a>
           </p>
         </div>
       </article>

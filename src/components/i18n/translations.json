@@ -25,6 +25,11 @@
             "thirdPart": ", designing interfaces that are both ",
             "fourthPart": "visually appealing and easy to use"
         },
+        "fourthParagraph": {
+            "firstPart": "When I'm not writing code, You can find me ",
+            "secondPart": "reading fantasy books, working out or looking for ",
+            "thirdPart": "Koroks"
+        },
         "getInTouch": "Let's connect!"
     },
     "es": {
@@ -52,6 +57,11 @@
             "secondPart": "soluciones digitales intuitivas y agradables",
             "thirdPart": ", diseñando interfaces que sean tanto ",
             "fourthPart": "visualmente atractivas como fáciles de usar"
+        },
+        "fourthParagraph": {
+            "firstPart": "Cuando no estoy escribiendo código, puedes encontrarme ",
+            "secondPart": "leyendo libros de fantasía, haciendo ejercicio o buscando ",
+            "thirdPart": "Kologs"
         },
         "getInTouch": "¡Conversemos!"
     }

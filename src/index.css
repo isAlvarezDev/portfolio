@@ -85,4 +85,43 @@ section {
     cursor: -moz-grabbing;
     cursor: -webkit-grabbing;
   }
+
+  .korogs:hover {
+    background: linear-gradient(
+      to right,
+      rgba(232, 20, 22, 1) 0%,
+      rgba(255, 165, 0, 1) 16%,
+      rgba(250, 235, 54, 1) 32%,
+      rgba(121, 195, 20, 1) 48%,
+      rgba(72, 125, 231, 1) 64%,
+      rgba(75, 54, 157, 1) 80%,
+      rgba(112, 54, 157, 1) 96%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 500% auto;
+    -webkit-text-stroke: .65px transparent;
+    animation: colour-slip 4s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes colour-slip {
+  0% {
+      background-position: 0% 50%;
+  }
+
+  100% {
+      background-position: 100% 50%;
+  }
+}
+
+@keyframes fade-out {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }

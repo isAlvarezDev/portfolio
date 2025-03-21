@@ -17,7 +17,7 @@ export const Hero = ({ translations, currentLang }) => {
         <h1>
           {greetings}
           <br />
-          <strong className="color-tertiary">Isaac Alvarez</strong>
+          <strong className="color-tertiary name-gradient">Isaac Alvarez</strong>
         </h1>
         <p className="description">
           <strong className="color-tertiary color-tertiary-no-bold">

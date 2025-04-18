@@ -4,6 +4,7 @@
     border-radius: 50%;
     z-index: 1;
     box-shadow: 1rem .875rem 1.25rem #0000008c;
+    aspect-ratio: 1 / 1;
 }
 
 @media (max-width: 57.9375rem) {

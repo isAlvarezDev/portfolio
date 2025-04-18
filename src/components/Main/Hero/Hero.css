@@ -148,6 +148,8 @@ button {
     flex-direction: column-reverse;
   }
 
+  h1 {text-align: center;}
+
   .content {
     align-items: center;
   }

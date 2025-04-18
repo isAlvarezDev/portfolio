@@ -7,6 +7,7 @@ export const HeroImage = () => {
       src={getImageUrl("hero/heroImage.jpg")}
       alt="Isaac Alvarez Image"
       className="hero-image"
+      loading="lazy"
       initial={{ y: 0 }}
       animate={{ y: 10 }}
       transition={{

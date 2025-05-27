@@ -1,6 +1,14 @@
 {
     "en": [
       {
+        "title": "Tall Giardini",
+        "imageSrc": "",
+        "description": "The result of modifying a code package provided as part of a challenge.",
+        "skills": ["Astro", "React", "TypeScript"],
+        "preview": "https://github.com/isAlvarezDev/tall-giardini",
+        "code": "https://tall-giardini.vercel.app/"
+      },
+      {
         "title": "Weather App",
         "imageSrc": "projects/weather-icons.webp",
         "description": "Implemented the Meteosource API in a React application to obtain real-time weather data.",
@@ -18,6 +26,14 @@
       }
     ],
     "es": [
+      {
+        "title": "Tall Giardini",
+        "imageSrc": "",
+        "description": "Modificado un paquete de código como parte de un reto.",
+        "skills": ["Astro", "React", "TypeScript"],
+        "preview": "https://github.com/isAlvarezDev/tall-giardini",
+        "code": "https://tall-giardini.vercel.app/"
+      },
       {
         "title": "Aplicación Meteorológica",
         "imageSrc": "projects/weather-icons.webp",

@@ -2,8 +2,8 @@
     "en": [
       {
         "title": "Tall Giardini",
-        "imageSrc": "",
-        "description": "The result of modifying a code package provided as part of a challenge.",
+        "imageSrc": "projects/tall_giardini.avif",
+        "description": "This project is the result of modifying a code package provided by Zyroex Agency.",
         "skills": ["Astro", "React", "TypeScript"],
         "preview": "https://github.com/isAlvarezDev/tall-giardini",
         "code": "https://tall-giardini.vercel.app/"
@@ -15,21 +15,13 @@
         "skills": ["React", "Sass"],
         "preview": "https://isalvarezdev.github.io/react-weather-app/",
         "code": "https://github.com/isAlvarezDev/react-weather-app"
-      },
-      {
-        "title": "Project Gallery",
-        "imageSrc": "projects/project-gallery.webp",
-        "description": "Collection of projects, inspired and built from the Frontend Mentor challenges.",
-        "skills": ["JavaScript", "Tailwind"],
-        "preview": "https://isalvarezdev.github.io/frontend-mentor/",
-        "code": "https://github.com/isAlvarezDev/frontend-mentor/tree/main/"
       }
     ],
     "es": [
       {
         "title": "Tall Giardini",
-        "imageSrc": "",
-        "description": "Modificado un paquete de código como parte de un reto.",
+        "imageSrc": "projects/tall_giardini.avif",
+        "description": "Este proyecto es el resultado de modificar un paquete de código proporcionado por la Agencia Zyroex.",
         "skills": ["Astro", "React", "TypeScript"],
         "preview": "https://github.com/isAlvarezDev/tall-giardini",
         "code": "https://tall-giardini.vercel.app/"
@@ -41,14 +33,6 @@
         "skills": ["React", "Sass"],
         "preview": "https://isalvarezdev.github.io/react-weather-app/",
         "code": "https://github.com/isAlvarezDev/react-weather-app"
-      },
-      {
-        "title": "Galería de Proyectos",
-        "imageSrc": "projects/project-gallery.webp",
-        "description": "Colección de proyectos, inspirados y construidos a partir de los desafíos de Frontend Mentor.",
-        "skills": ["JavaScript", "Tailwind"],
-        "preview": "https://isalvarezdev.github.io/frontend-mentor/",
-        "code": "https://github.com/isAlvarezDev/frontend-mentor/tree/main/"
       }
     ]
   }

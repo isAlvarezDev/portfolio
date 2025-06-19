@@ -84,6 +84,13 @@ button {
   font-weight: 500;
   font-size: var(--step--1);
   box-shadow: 0 0 4px 0 #00000040;
+  transition: .25s ease-in-out;
+}
+
+.email:hover {
+  background-color: var(--color-dark);
+  border: 2px solid var(--color-dark);
+  transition: .25s ease-in;
 }
 
 .cv,

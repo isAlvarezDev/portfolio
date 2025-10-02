@@ -1,8 +1,16 @@
 {
     "en": [
       {
+        "title": "Punto Ferretero",
+        "imageSrc": "projects/punto-ferretero.avif",
+        "description": "It's a ERP that unifies POS, CRM, HRM, contability and project management in one system.",
+        "skills": ["Lavarel", "Tailwind"],
+        "preview": "https://backoffice.puntoferreteropy.com/",
+        "code": "#"
+      },
+      {
         "title": "Tall Giardini",
-        "imageSrc": "projects/tall_giardini.avif",
+        "imageSrc": "projects/tall-giardini.avif",
         "description": "This project is the result of modifying a code package provided by Zyroex Agency.",
         "skills": ["Astro", "React", "TypeScript"],
         "preview": "https://github.com/isAlvarezDev/tall-giardini",
@@ -19,8 +27,16 @@
     ],
     "es": [
       {
+        "title": "Punto Ferretero",
+        "imageSrc": "projects/punto-ferretero.avif",
+        "description": "Es un ERP que unifica POS, CRM, HRM, contabilidad y gestión de proyectos en un solo sistema.",
+        "skills": ["Lavarel", "Tailwind"],
+        "preview": "https://backoffice.puntoferreteropy.com/",
+        "code": "#"
+      },
+      {
         "title": "Tall Giardini",
-        "imageSrc": "projects/tall_giardini.avif",
+        "imageSrc": "projects/tall-giardini.avif",
         "description": "Este proyecto es el resultado de modificar un paquete de código proporcionado por la Agencia Zyroex.",
         "skills": ["Astro", "React", "TypeScript"],
         "preview": "https://github.com/isAlvarezDev/tall-giardini",

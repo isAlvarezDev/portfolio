@@ -30,7 +30,9 @@
             "secondPart": "reading fantasy books, working out or looking for ",
             "thirdPart": "Koroks"
         },
-        "getInTouch": "Let's connect!"
+        "letsTalk": "Let's talk",
+        "getInTouch": "I am available for collaborations and new projects.",
+        "letsConnect": "Please do not hesitate to contact me!"
     },
     "es": {
         "tech": "Tecnologías",
@@ -63,6 +65,9 @@
             "secondPart": "leyendo libros de fantasía, haciendo ejercicio o buscando ",
             "thirdPart": "Kologs"
         },
-        "getInTouch": "¡Conversemos!"
+        "letsTalk": "Hablemos",
+        "getInTouch": "Estoy disponible para colaboraciones y nuevos proyectos.",
+        "letsConnect": "¡No dudes en contactarme!",
+        "rights": "Todos los derechos reservados"
     }
 }

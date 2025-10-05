@@ -6,6 +6,8 @@
   --color-tertiary: #83C8F2;
   --color-dark: #0b2447;
   --color-bg: #04152d;
+  --color-subtitle: #CED3DA;
+  --color-small-paragraph: #9DA7B5;
 
   /* Font-sizes */
   --step--3: clamp(0.7901rem, 0.7697rem + 0.1023vw, 0.84rem);

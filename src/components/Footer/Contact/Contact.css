@@ -1,18 +1,27 @@
-.text h2 {
-    font-size: var(--step-4);
-    font-weight: 700;
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-2xs);
 }
 
-.text p{
-    font-size: var(--step-1);
-    font-weight: 400;
-    letter-spacing: 2px;
-    text-align: center;
+.text h2 {
+    font-size: var(--step-3);
+    letter-spacing: 0;
+    font-weight: 500;
+    color: var(--color-tertiary);
+    text-transform: none;
+}
+
+.text p {
+    font-size: var(--step--1);
+    font-weight: 100;
+    color: var(--color-subtitle);
 }
 
 .footer-links {
     display: flex;
-    flex-direction: column;
+    margin-top: 16px;
     align-items: start;
     list-style: none;
     gap: var(--space-s);
@@ -20,39 +29,47 @@
 
 .footer-link {
     display: flex;
+    background-color: #1C345C;
+    border-radius: 100%;
+    padding: 0.5rem 0.7rem;
     align-items: center;
     gap: var(--space-s);
 }
 
-.footer-link a {
-    color: var(--color-text);
-    text-decoration: none;
-    font-size: var(--step--1);
-    font-weight: 400;
-    letter-spacing: 1.5px;
+.footer-divider {
+    height: 1px;
+    width: 100%;
+    background-color: var(--color-secondary);
+    margin: var(--space-xl) auto 1rem auto;
+    max-inline-size: 54rem;
+}
+
+.rights {
+    margin-block-start: 2rem;
+    text-align: center;
+    color: var(--color-small-paragraph);
+}
+
+@media (max-width: 51.875rem) {
+    .contact {
+        flex-direction: column;
+        gap: var(--space-m);
+    }
 }
 
 @media (max-width: 51.875rem) {
 
     .text {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+        text-align: center;
+    }
+
+    .text h2 {
+        margin-bottom: 12px;
     }
 
     .footer-links {
         align-items: start;
-        margin: auto;
-    }
-
-    .footer-contact-img {
-        width: 42px;
-    }
-}
-
-@media (max-width: 33.125rem) {
-    .footer-contact-img {
-        width: 36px;
+        margin: 0 auto;
     }
 }
 

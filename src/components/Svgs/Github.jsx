@@ -1,10 +1,10 @@
-export const Github = ({ width, height, className="" }) => (
+export const Github = ({ width, height, className="", fill="#fff" }) => (
   <svg
     className={className}
     viewBox="0 0 256 250"
     width={width}
     height={height}
-    fill="#fff"
+    fill={fill}
     xmlns="http://www.w3.org/2000/svg"
     preserveAspectRatio="xMidYMid"
   >

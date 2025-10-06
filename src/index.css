@@ -38,7 +38,7 @@ a {
 }
 
 h2 {
-  letter-spacing: 1.5px;
+  letter-spacing: 1px;
   font-size: var(--step-3);
   font-weight: 600;
   color: var(--color-h2);

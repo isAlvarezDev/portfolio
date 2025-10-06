@@ -1,9 +1,5 @@
 .formation {
-    margin-block-start: var(--space-2xl);
-}
-
-.formation-title {
-    font-weight: 700;
+    margin-block: var(--space-2xl);
 }
 
 .formation-info {
@@ -40,6 +36,7 @@
 
 .formation-data-subtitle {
     font-size: var(--step--2);
+    color: var(--color-subtitle);
 }
 
 .ending-time {

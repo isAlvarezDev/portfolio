@@ -25,6 +25,6 @@
 }
 
 .stairs {
-  background-color: white;
+  background-color: var(--color-text);
   position: relative;
 }

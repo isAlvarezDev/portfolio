@@ -1,6 +1,14 @@
 {
     "en": [
       {
+        "title": "RedProp",
+        "imageSrc": "projects/redprop.jpg",
+        "description": "It is a comprehensive solution for property management, with a simple and modern interface.",
+        "skills": ["Next.js", "TypeScript"],
+        "preview": "dev-redprop.vercel.app/login",
+        "code": "#"
+      },
+      {
         "title": "Punto Ferretero",
         "imageSrc": "projects/punto-ferretero.avif",
         "description": "It's a ERP that unifies POS, CRM, HRM, contability and project management in one system.",
@@ -15,17 +23,17 @@
         "skills": ["Astro", "React", "TypeScript"],
         "preview": "https://github.com/isAlvarezDev/tall-giardini",
         "code": "https://tall-giardini.vercel.app/"
-      },
-      {
-        "title": "Weather App",
-        "imageSrc": "projects/weather-icons.webp",
-        "description": "Implemented the Meteosource API in a React application to obtain real-time weather data.",
-        "skills": ["React", "Sass"],
-        "preview": "https://isalvarezdev.github.io/react-weather-app/",
-        "code": "https://github.com/isAlvarezDev/react-weather-app"
       }
     ],
     "es": [
+      {
+        "title": "RedProp",
+        "imageSrc": "projects/redprop.jpg",
+        "description": "Es una solución integral para la gestión de propiedades inmobiliarias, interfaz sencilla y moderna.",
+        "skills": ["Next.js", "TypeScript"],
+        "preview": "dev-redprop.vercel.app/login",
+        "code": "#"
+      },
       {
         "title": "Punto Ferretero",
         "imageSrc": "projects/punto-ferretero.avif",
@@ -41,14 +49,6 @@
         "skills": ["Astro", "React", "TypeScript"],
         "preview": "https://github.com/isAlvarezDev/tall-giardini",
         "code": "https://tall-giardini.vercel.app/"
-      },
-      {
-        "title": "Aplicación Meteorológica",
-        "imageSrc": "projects/weather-icons.webp",
-        "description": "Implementé la API de Meteosource en una aplicación de React, para obtener datos del clima en tiempo real.",
-        "skills": ["React", "Sass"],
-        "preview": "https://isalvarezdev.github.io/react-weather-app/",
-        "code": "https://github.com/isAlvarezDev/react-weather-app"
       }
     ]
   }

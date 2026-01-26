@@ -5,7 +5,7 @@
         "imageSrc": "projects/redprop.jpg",
         "description": "It is a comprehensive solution for property management, with a simple and modern interface.",
         "skills": ["Next.js", "TypeScript"],
-        "preview": "dev-redprop.vercel.app/login",
+        "preview": "https://dev-redprop.vercel.app/login",
         "code": "#"
       },
       {

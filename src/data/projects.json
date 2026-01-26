@@ -31,7 +31,7 @@
         "imageSrc": "projects/redprop.jpg",
         "description": "Es una solución integral para la gestión de propiedades inmobiliarias, interfaz sencilla y moderna.",
         "skills": ["Next.js", "TypeScript"],
-        "preview": "dev-redprop.vercel.app/login",
+        "preview": "https://dev-redprop.vercel.app/login",
         "code": "#"
       },
       {

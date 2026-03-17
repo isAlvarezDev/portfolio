@@ -21,8 +21,8 @@
         "imageSrc": "projects/tall-giardini.avif",
         "description": "This project is the result of modifying a code package provided by Zyroex Agency.",
         "skills": ["Astro", "React", "TypeScript"],
-        "preview": "https://github.com/isAlvarezDev/tall-giardini",
-        "code": "https://tall-giardini.vercel.app/"
+        "preview": "https://tall-giardini.vercel.app/",
+        "code": "https://github.com/isAlvarezDev/tall-giardini"
       }
     ],
     "es": [
@@ -47,8 +47,8 @@
         "imageSrc": "projects/tall-giardini.avif",
         "description": "Este proyecto es el resultado de modificar un paquete de código proporcionado por la Agencia Zyroex.",
         "skills": ["Astro", "React", "TypeScript"],
-        "preview": "https://github.com/isAlvarezDev/tall-giardini",
-        "code": "https://tall-giardini.vercel.app/"
+        "preview": "https://tall-giardini.vercel.app/",
+        "code": "https://github.com/isAlvarezDev/tall-giardini"
       }
     ]
   }
